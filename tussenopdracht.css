@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+nav ul {
+    display: inline;
+}
+
+p {
+    color: #2B3A67;
+    font-family: 'Jura', sans-serif;
+}
+
+h1 {
+    color: dimgray;
+    font-family: 'Times New Roman', Times, serif;
+}
