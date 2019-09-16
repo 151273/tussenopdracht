@@ -3,7 +3,8 @@ body {
 }
 
 nav ul {
-    display: inline;
+
+    color: rgb(1, 5, 17);
 }
 
 p {
